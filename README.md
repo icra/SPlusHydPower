@@ -36,3 +36,7 @@ Before using the S+HydPower plugin, ensure that you have the following data and 
 ## Contact
 
 For questions, issues, or support, please visit the issues section of this repository, or email xgarcia@icra.cat
+
+## Credits
+
+This plugin uses an icon designed by Freepick from flaticon (https://www.flaticon.com/free-icons/hydro-power).
