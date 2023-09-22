@@ -25,7 +25,7 @@ hasProcessingProvider=yes
 # Tags are comma separated with spaces allowed
 tags=python, SWAT+, hydropower, run-of-river, environmental assessment, environmental flow, climate change
 
-homepage=http://homepage
+homepage=https://github.com/icra/SPlusHydPower
 category=Analysis
 icon=hydro-power.png
 # experimental flag
