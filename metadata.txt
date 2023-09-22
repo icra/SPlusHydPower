@@ -1,0 +1,47 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=S+HydPower
+qgisMinimumVersion=3.16
+description= Plugin designed to estimate hydropower generation.
+version=0.1
+author=ICRA
+email=xgarcia@icra.cat
+
+about=The S+HydPower QGIS Plugin is a powerful tool designed to estimate hydropower generation and evaluate the socioeconomic impact of watershed management measures. It accomplishes this by utilizing hydrological SWAT+ simulated outputs, which serve as the foundation for estimating hydropower generation and the associated impacts. Additionally, the plugin allows users to explore various scenarios based on the functioning and characteristics of the hydropower system. This plugin uses an icon designed by Freepick from flaticon (https://www.flaticon.com/free-icons/hydro-power).
+
+tracker=https://github.com/icra/SPlusHydPower/issues
+repository=https://github.com/icra/SPlusHydPower
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=yes
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=python, SWAT+, hydropower, run-of-river, environmental assessment, environmental flow, climate change
+
+homepage=http://homepage
+category=Analysis
+icon=hydro-power.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=
+
+# If the plugin can run on QGIS Server.
+server=False
+
